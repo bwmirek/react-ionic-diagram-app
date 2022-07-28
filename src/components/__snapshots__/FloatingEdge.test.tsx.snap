@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FloatingEdge should render empty 1`] = `
+<body>
+  <div>
+    <svg />
+  </div>
+</body>
+`;
+
+exports[`FloatingEdge should render without crashing 1`] = `
+<body>
+  <div>
+    <svg>
+      <g
+        class="react-flow__connection"
+      >
+        <path
+          class="react-flow__edge-path"
+          d="M 100,100L 100,100"
+          id="test"
+        />
+      </g>
+    </svg>
+  </div>
+</body>
+`;

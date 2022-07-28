@@ -1,0 +1,26 @@
+.react-flow__controls button {
+  background: var(--ion-color-step-50);
+  border-bottom-color: var(--ion-color-step-200);
+}
+
+.react-flow__controls button:hover {
+  background: var(--ion-color-step-100);
+}
+
+.react-flow__controls svg {
+  fill: var(--ion-text-color);
+}
+
+.react-flow__node {
+  background: var(--ion-color-step-50);
+  color: var(--ion-text-color);
+  border-color: var(--ion-color-step-400);
+}
+
+.react-flow__node:hover {
+  background: var(--ion-color-step-100);
+}
+
+.react-flow__handle {
+  opacity: 0;
+}

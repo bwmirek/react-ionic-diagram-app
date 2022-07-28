@@ -1,0 +1,7 @@
+{
+  "name": "react-ionic-diagram-app",
+  "integrations": {
+    "capacitor": { }
+  },
+  "type": "react"
+}
