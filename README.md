@@ -12,5 +12,5 @@ npm install
 
 ### Start development server
 ```
-ionic server
+ionic serve
 ```
